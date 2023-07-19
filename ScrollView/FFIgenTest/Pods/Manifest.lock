@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+  - SwiftUIIntrospect (0.9.0)
+
+DEPENDENCIES:
+  - Flutter (from `../ffigen_flutter/.ios/Flutter`)
+  - FlutterPluginRegistrant (from `../ffigen_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - SwiftUIIntrospect
+
+SPEC REPOS:
+  trunk:
+    - SwiftUIIntrospect
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../ffigen_flutter/.ios/Flutter"
+  FlutterPluginRegistrant:
+    :path: "../ffigen_flutter/.ios/Flutter/FlutterPluginRegistrant"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  FlutterPluginRegistrant: 58acfb6cb31ee4ca14f920aba101815efda113ee
+  SwiftUIIntrospect: d298ccd7100fb0cb06140d0c1ea57c593152367a
+
+PODFILE CHECKSUM: 8e8a1a72865336466f4ed77e0729c2ad0588dc24
+
+COCOAPODS: 1.12.1

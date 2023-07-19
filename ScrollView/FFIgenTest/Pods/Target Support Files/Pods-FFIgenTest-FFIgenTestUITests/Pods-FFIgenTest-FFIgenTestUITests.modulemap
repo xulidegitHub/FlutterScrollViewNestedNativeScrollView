@@ -1,0 +1,6 @@
+framework module Pods_FFIgenTest_FFIgenTestUITests {
+  umbrella header "Pods-FFIgenTest-FFIgenTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
